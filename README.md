@@ -35,13 +35,13 @@ Fitur utama:
 
 ```powershell
 cd C:\laragon\www\
-git clone https://github.com/<your-user>/<repo>.git
+git clone https://github.com/masmutdevofficial/spk-rekomendasi-kosmetik-forward-chaining
 # atau untuk XAMPP
 cd C:\xampp\htdocs\
-git clone https://github.com/<your-user>/<repo>.git
+git clone https://github.com/masmutdevofficial/spk-rekomendasi-kosmetik-forward-chaining
 ```
 
-2. Jika Anda menerima ZIP, ekstrak ke `C:\xampp\htdocs\your-folder` atau `C:\laragon\www\your-folder`.
+2. Jika Anda menerima ZIP, ekstrak ke `C:\xampp\htdocs\spk-rekomendasi-kosmetik-forward-chaining` atau `C:\laragon\www\spk-rekomendasi-kosmetik-forward-chaining`.
 
 ## Database
 
@@ -85,9 +85,9 @@ Setelah import `sispak.sql`, ada akun admin bawaan:
 
 ## URL Akses
 
-- Frontend: `http://localhost/your-folder/` (sesuaikan nama folder)
-- Admin (setelah login): `http://localhost/your-folder/admin/pakar-home.php`
-- Login: `http://localhost/your-folder/auth/login.php`
+- Frontend: `http://localhost/spk-rekomendasi-kosmetik-forward-chaining/` (sesuaikan nama folder)
+- Admin (setelah login): `http://localhost/spk-rekomendasi-kosmetik-forward-chaining/admin/pakar-home.php`
+- Login: `http://localhost/spk-rekomendasi-kosmetik-forward-chaining/auth/login.php`
 
 ## Perubahan penting di repo ini
 
